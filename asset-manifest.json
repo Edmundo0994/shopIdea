@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopIdea/static/css/main.80c8705c.css",
-    "main.js": "/shopIdea/static/js/main.942cd010.js",
+    "main.js": "/shopIdea/static/js/main.5c1ca995.js",
     "static/media/logo_yard_sale.svg": "/shopIdea/static/media/logo_yard_sale.6d98da71f7a1ec368eab5160ecc06909.svg",
     "static/media/bt_add_to_cart.svg": "/shopIdea/static/media/bt_add_to_cart.d6e969538a58d48c9495247caf64324d.svg",
     "static/media/icon_shopping_cart.svg": "/shopIdea/static/media/icon_shopping_cart.995748b73b8792b4b60fd1ed0515faaa.svg",
@@ -10,10 +10,10 @@
     "index.html": "/shopIdea/index.html",
     "static/media/flechita.svg": "/shopIdea/static/media/flechita.5634ade2a3a788cac60b3d06a4242587.svg",
     "main.80c8705c.css.map": "/shopIdea/static/css/main.80c8705c.css.map",
-    "main.942cd010.js.map": "/shopIdea/static/js/main.942cd010.js.map"
+    "main.5c1ca995.js.map": "/shopIdea/static/js/main.5c1ca995.js.map"
   },
   "entrypoints": [
     "static/css/main.80c8705c.css",
-    "static/js/main.942cd010.js"
+    "static/js/main.5c1ca995.js"
   ]
 }
